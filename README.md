@@ -4,6 +4,13 @@ En este repositorio se encontraran ejemplos de la funcionalidad del algoritmo de
 # contenido
 En este repositorio encontrara el archivo de jupyter(el cual podra verse en visual studio code, si asi lo desea o verlo desde el repositorio) donde encontrara cada uno de los ejemplos propuestos para comprobar la funcionalidad del algoritmo y la comprobacion del ejercicio resuelto.
 
+tambien la funcionalidad del algoritmo que vamos a dar ejemplo y demostrar en este repositorio funciona """
+Este código implementa una versión clásica simplificada del algoritmo de Shor, 
+cuyo objetivo es factorizar un número compuesto N (en este caso, 247). 
+Para ello, elige un número a coprimo con N y construye la secuencia de valores 
+a^x mod N, buscando su período r, es decir, el menor valor tal
+
+
 # ejercicio
 Ele ejercicio a resolver es simplemente el comrpobar el resultado que nos da el algoritmo a unos valores dados.
 
